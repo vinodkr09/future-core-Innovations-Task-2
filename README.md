@@ -1,0 +1,1 @@
+# task 2 given by the future core innovations to built REST Countries API with color theme switcher
